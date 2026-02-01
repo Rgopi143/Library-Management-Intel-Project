@@ -1,0 +1,28 @@
+User-agent: *
+Allow: /
+
+# Sitemap location (if you have one)
+# Sitemap: https://your-domain.com/sitemap.xml
+
+# Allow crawling of all important pages
+Allow: /catalog
+Allow: /policies
+Allow: /chat
+Allow: /
+
+# Disallow crawling of admin or sensitive areas (if any)
+# Disallow: /admin
+# Disallow: /api
+
+# Crawl delay (optional - be nice to servers)
+Crawl-delay: 1
+
+# Popular search engines
+User-agent: Googlebot
+Allow: /
+
+User-agent: Bingbot
+Allow: /
+
+User-agent: Slurp
+Allow: /
