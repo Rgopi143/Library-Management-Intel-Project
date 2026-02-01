@@ -1,8 +1,11 @@
-<div align="center">
-<img width="1200" height="475" alt="LibraBot Banner" src="https://github.com/user-attachments/assets/0aa67016-6eaf-458a-adb2-6e31a0763ed6" />
-</div>
-
 # LibraBot - Smart Library Assistant 📚
+
+<div align="center">
+  <img src="https://img.shields.io/badge/React-19-blue?style=for-the-badge&logo=react" alt="React" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS" />
+  <img src="https://img.shields.io/badge/Google_Gemini_AI-4285F4?style=for-the-badge&logo=google-gemini&logoColor=white" alt="Google Gemini AI" />
+</div>
 
 An AI-powered library management system that combines intelligent catalog search with compressed policy summaries to revolutionize how patrons interact with library resources.
 
@@ -269,10 +272,3 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - **AI Responses**: Powered by Google Gemini
 - **Animations**: 20+ custom transitions
 - **Responsive**: 3+ screen sizes optimized
-
----
-
-<div align="center">
-  <p>Made with ❤️ for library lovers and book enthusiasts</p>
-  <p>Powered by Google Gemini AI • Built with React & TypeScript</p>
-</div>
